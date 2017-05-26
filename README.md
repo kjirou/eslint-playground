@@ -1,0 +1,2 @@
+# eslint-playground
+EeeeeeeeeeeeeeeSLint!
