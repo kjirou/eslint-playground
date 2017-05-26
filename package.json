@@ -1,0 +1,22 @@
+{
+  "name": "eslint-playground",
+  "version": "0.0.0",
+  "description": "My ESLint playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kjirou/eslint-playground.git"
+  },
+  "author": "kjirou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kjirou/eslint-playground/issues"
+  },
+  "homepage": "https://github.com/kjirou/eslint-playground#readme",
+  "dependencies": {
+    "eslint": "^3.19.0"
+  }
+}
